@@ -12,26 +12,16 @@
   
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
-
-‎   
-  
-
-- 🔭 Working on [Alexa skills](https://www.amazon.co.uk/coolbigbear-Radio-RMF-FM/dp/B08F3XSN4V)  
-  
-
-- 🌱 I’m currently learning Svelte  
-  
-
-- ⚡ Fun fact: I like pineapple on Pizza 🍕  
-
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolbigbear&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
+<div align="center">
+<table>
+<tbody>
+  <tr>
+    <td>- 🔭 Working on <a href="https://www.amazon.co.uk/coolbigbear-Radio-RMF-FM/dp/B08F3XSN4V">Alexa skills</a><br>  <br>- 🌱 I’m currently learning Svelte  <br><br>- ⚡ Fun fact: I like pineapple on Pizza 🍕</td>
+    <td><div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolbigbear&hide_border=true&layout=compact"></div></td>
+  </tr>
+</tbody>
+</table>
+</div>
 
 <br/>  
 

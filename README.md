@@ -69,20 +69,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=coolbigbear&&style=flat-square" align="center" />
 </div>  

@@ -5,7 +5,7 @@
 <a href="https://github.com/coolbigbear" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://michal-czuper.com" target="_blank">
+<a href="https://michalczuper.com" target="_blank">
 <img src=https://img.shields.io/badge/website-white.svg?&style=for-the-badge&logo=react&logoColor=black alt=react style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/michal-czuper" target="_blank">
